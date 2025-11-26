@@ -30,12 +30,10 @@
 #### 🎨 Frontend
 - HTML5, CSS3
 - JavaScript (ES6+)
-- React / Basic frontend frameworks
-- Bootstrap / Tailwind CSS
+- Bootstrap 
 
 #### 🗄️ Database & Tools
 - MySQL
-- PostgreSQL (basic)
 - Git & GitHub
 - Maven / Gradle
 - Postman
@@ -76,7 +74,7 @@
 
 ### 🏅 Highlights
 
-- ✅ Completed **degree** (mention your degree: e.g., BSc / BCA / B.Tech / BCS etc.)
+- ✅ Completed **BCA** 
 - 🎓 Currently doing a **Professional Full Stack Developer course**
 - 💡 Strong interest in **backend development**, **API design**, and **full stack web apps**
 - ✍️ Passionate about **pencil sketching**
@@ -86,9 +84,9 @@
 
 ### 🤝 Let’s Connect
 
-- 📧 Email: *your-email@example.com*  
-- 🌐 LinkedIn: *[Your LinkedIn Profile Link]*  
-- 🧑‍💻 GitHub: [your-github-username](https://github.com/your-github-username)
+- 📧 Email: *poojakudache410@gmail.com*  
+- 🌐 LinkedIn: *[]*  
+- 🧑‍💻 GitHub: [Pooja Kudache](https://github.com/your-github-username)
 
 ---
 
