@@ -50,10 +50,10 @@
 
 > _These are part of my academic and course work, but I have built them with an industry-like approach._
 
-- 🧾 **[Project Name 1]** – *Java + Spring Boot + MySQL*  
+- 🧾 **[Employee attendance using QR-code]** – *Java + Spring Boot + MySQL*  
   Description: A full stack web application built as my **academic project**, where I implemented user authentication, CRUD operations, and responsive UI.
 
-- 🌐 **[Project Name 2]** – *Frontend project (HTML/CSS/JS or React)*  
+- 🌐 **[MVC CRUD]** – *Spring Boot*  
   Description: A responsive web application focusing on clean UI, reusable components, and better user experience.
 
 - 📊 **[Project Name 3]** – *Any mini-project / course assignment*  
@@ -85,7 +85,7 @@
 ### 🤝 Let’s Connect
 
 - 📧 Email: *poojakudache410@gmail.com*  
-- 🌐 LinkedIn: *[]*  
+- 🌐 LinkedIn: *[https://www.linkedin.com/in/pooja-kudache-72a531344/]*  
 - 🧑‍💻 GitHub: [Pooja Kudache](https://github.com/your-github-username)
 
 ---
